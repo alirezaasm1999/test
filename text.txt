@@ -2,4 +2,3 @@ commit one
 commit three
 commit four
 commit six
-commit seven
